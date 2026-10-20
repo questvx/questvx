@@ -1,73 +1,34 @@
-# Hi, I'm Piotr Kaczmarczyk 👋
+# Hi 👋, I'm questvx
 
-I'm a Computer Science student at Cracow University of Technology, focused mainly on **frontend development** with React and TypeScript.
+### Software Developer from Poland 🇵🇱
 
-I also have experience building **full-stack and desktop applications**, working with REST APIs, Java/Spring Boot, Electron and databases.
+---
 
-### 💻 Technologies
+### 🚀 About Me
 
-**Frontend**
-- TypeScript / JavaScript
-- React / Next.js
-- HTML / CSS
-- Responsive Design
-- Accessibility (a11y)
-- Three.js
+- 🎓 Applied Computer Science student at Cracow University of Technology
+- 🛠️ Building web, desktop and interactive 3D applications
+- 🎵 Developing an AutoTune-like audio processor in C++ / JUCE
+- 📫 Contact: [Email](mailto:piotr.kaczmarczyk@gmail.com) · [LinkedIn](https://linkedin.com/in/piotr-kaczmarczyk-b48186296)
 
-**Backend**
-- Java / Spring Boot
-- C# / .NET
-- REST APIs
-- MySQL / SQL
+---
 
-**Other**
-- C++
-- Electron
-- JUCE
+### 📂 Featured Projects
 
-**Tools**
-- Git / GitHub
-- npm / Vite
-- VS Code
-- IntelliJ IDEA
-- Visual Studio
+- **Blog Banalna** — Full-stack lifestyle blog with a custom admin panel.
+- **AutoTune** — C++ / JUCE audio application for vocal pitch correction.
+- **3D Real Estate App** — Interactive building visualizations and apartment previews using React and Three.js.
+- **Ski Resort Management** — Desktop app for managing resort revenue, instructors and lesson schedules.
+- **And more...** — Web, desktop and experimental projects.
 
-### 🚀 Projects
+---
 
-- **Blog Banalna — Full-stack lifestyle blog with a custom admin panel, rich text editing, image support, search, tags and archives. Built with React, TypeScript, Java, Spring Boot and MySQL.
+### 🛠️ Languages & Tools
 
-- **AutoTune — A vocal pitch-correction application developed in C++ and JUCE, featuring pitch detection, note correction, scale settings and a PSOLA-based pitch-shifting algorithm.
+**Frontend:** TypeScript, JavaScript, React, Next.js, HTML, CSS
 
-- **Ski Resort Management Application** — A desktop application built with React, Electron and TypeScript for managing resort revenue, instructors and lesson schedules, with website synchronization.
+**Backend:** Java, Spring Boot, C#, .NET, REST APIs, MySQL
 
-- **3D Real Estate Application** — An interactive real estate application built with React and Three.js, featuring 3D building visualizations
+**Other:** C++, JUCE, Electron, Three.js
 
-- **And many more...** — Exploring different technologies and building web, desktop and interactive applications.
-
-### 🎓 Education
-
-**Cracow University of Technology**  
-Applied Computer Science · 2023–Present
-
-### 💼 Experience
-
-**WAYSTAR — Intern**  
-June–September 2026
-
-Worked in a team creating and maintaining client websites, including e-commerce stores and static and dynamic pages.
-
-- Website customization
-- Responsive design
-- Content updates
-- Ongoing website improvements
-
-### 🌱 Currently
-
-- Building web applications with React and TypeScript
-- Developing my engineering thesis — an Auto-Tune-like vocal processor in **C++ / JUCE**
-- Improving my frontend and full-stack development skills
-
-### 📫 Contact
-
-- Email: [piotr.kaczmarczyk779@gmail.com](mailto:piotr.kaczmarczyk@gmail.com)
-- LinkedIn: [linkedin.com/in/piotr-kaczmarczyk-b48186296](https://www.linkedin.com/in/piotr-kaczmarczyk-b48186296)
+**Tools:** Git, GitHub, npm, Vite, VS Code, Visual Studio, IntelliJ IDEA
