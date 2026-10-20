@@ -1,6 +1,6 @@
 # Hi 👋, I'm questvx
 
-### Software Developer from Poland 🇵🇱
+### Software Developer from Poland
 
 ---
 
@@ -25,10 +25,8 @@
 
 ### 🛠️ Languages & Tools
 
-**Frontend:** TypeScript, JavaScript, React, Next.js, HTML, CSS
-
-**Backend:** Java, Spring Boot, C#, .NET, REST APIs, MySQL
-
-**Other:** C++, JUCE, Electron, Three.js
-
-**Tools:** Git, GitHub, npm, Vite, VS Code, Visual Studio, IntelliJ IDEA
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,cpp,dotnet,github" />
+  </a>
+</p>
